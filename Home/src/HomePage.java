@@ -6,7 +6,7 @@
 
 /**
  *
- * @author ReLL
+ * @author tyReLL
  */
 public class HomePage extends javax.swing.JFrame {
 
