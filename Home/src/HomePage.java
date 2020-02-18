@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Jones
+ * @author ones
  */
 public class HomePage extends javax.swing.JFrame {
 
